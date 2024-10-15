@@ -26,4 +26,19 @@ ul {
 body {
   margin: 0;
   font-family: sans-serif;
+  background-color: #f2eae2;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 16px;
+  margin-left: 16px;
+  margin-top: 28px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.img {
+  border-radius: 10px 10px;
 }
